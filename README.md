@@ -3,9 +3,6 @@
 A modern, responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript. Designed with a glassmorphic dark-mode aesthetic featuring smooth animations, dynamic content, and interactive sections.
 
 🌐 **Live Site:** samueljohn369.github.io/samuel-john-portfolio  
-💼 **LinkedIn:** linkedin.com/in/samueljohn1  
-🐙 **GitHub:** github.com/samueljohn369  
-📸 **Instagram:** @achi_ll_es  
 📧 **Email:** samueljohn0727@gmail.com
 
 ---
@@ -138,29 +135,3 @@ Specifies files excluded from version control:
    ```
 
 > No build tools or package managers required — pure HTML/CSS/JS!
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Hand Gesture Controlling System** | Control system using hand gestures via computer vision |
-| **Retail Sales Analytics** | Data analytics dashboard for retail sales insights |
-| **Face QR Detector** | Real-time face and QR code detection system |
-| **Customer Churn Analysis** | ML model to predict and analyze customer churn |
-
----
-
-## 🏆 About Me
-
-- 🎓 B.Tech graduate in **Computer Science & Data Science** — SCMS School of Engineering and Technology, Kochi
-- 🏐 **National-level Netball player** — Represented Kerala at the 65th National School Games (2019-20)
-- 🥇 **Best Student of the Year** — Scored 1200/1200 (100%) in +2 exams
-- 🔬 Interested in **AI/ML, Data Analytics, Software Development, and Web Development**
-
----
-
-## 📜 License
-
-This project is open source and available under the MIT License.
