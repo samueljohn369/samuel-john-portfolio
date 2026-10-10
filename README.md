@@ -2,10 +2,10 @@
 
 A modern, responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript. Designed with a glassmorphic dark-mode aesthetic featuring smooth animations, dynamic content, and interactive sections.
 
-🌐 **Live Site:** [samueljohn369.github.io/samuel-john-portfolio](https://samueljohn369.github.io/samuel-john-portfolio)  
-💼 **LinkedIn:** [linkedin.com/in/samueljohn1](https://linkedin.com/in/samueljohn1)  
-🐙 **GitHub:** [github.com/samueljohn369](https://github.com/samueljohn369)  
-📸 **Instagram:** [@achi_ll_es](https://www.instagram.com/achi_ll_es)  
+🌐 **Live Site:** samueljohn369.github.io/samuel-john-portfolio  
+💼 **LinkedIn:** linkedin.com/in/samueljohn1  
+🐙 **GitHub:** github.com/samueljohn369  
+📸 **Instagram:** @achi_ll_es  
 📧 **Email:** samueljohn0727@gmail.com
 
 ---
@@ -143,12 +143,12 @@ Specifies files excluded from version control:
 
 ## 📌 Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Hand Gesture Controlling System** | Control system using hand gestures via computer vision | [View →](https://github.com/samueljohn369/Hand-Gesture-controlling-System) |
-| **Retail Sales Analytics** | Data analytics dashboard for retail sales insights | [View →](https://github.com/samueljohn369/retail-sales-analytics) |
-| **Face QR Detector** | Real-time face and QR code detection system | [View →](https://github.com/samueljohn369/Face-QR-detector) |
-| **Customer Churn Analysis** | ML model to predict and analyze customer churn | [View →](https://github.com/samueljohn369/customer-churn-analysis) |
+| Project | Description |
+|---------|-------------|
+| **Hand Gesture Controlling System** | Control system using hand gestures via computer vision |
+| **Retail Sales Analytics** | Data analytics dashboard for retail sales insights |
+| **Face QR Detector** | Real-time face and QR code detection system |
+| **Customer Churn Analysis** | ML model to predict and analyze customer churn |
 
 ---
 
@@ -163,4 +163,4 @@ Specifies files excluded from version control:
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
