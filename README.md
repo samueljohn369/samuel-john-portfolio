@@ -1,9 +1,6 @@
-# 👨‍💻 Samuel John — Personal Portfolio
+#  Samuel John — Personal Portfolio
 
 A modern, responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript. Designed with a glassmorphic dark-mode aesthetic featuring smooth animations, dynamic content, and interactive sections.
-
-🌐 **Live Site:** samueljohn369.github.io/samuel-john-portfolio  
-📧 **Email:** samueljohn0727@gmail.com
 
 ---
 
